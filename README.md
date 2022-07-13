@@ -1,1 +1,0 @@
-# rails-user-authentication
